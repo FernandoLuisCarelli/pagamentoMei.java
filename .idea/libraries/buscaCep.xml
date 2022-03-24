@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="buscaCep">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/buscaCep/desfio Cep/buscaCep.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

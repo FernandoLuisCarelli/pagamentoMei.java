@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Agenda/Agenda.iml" filepath="$PROJECT_DIR$/Agenda/Agenda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CEP_RUA/CEP_RUA.iml" filepath="$PROJECT_DIR$/CEP_RUA/CEP_RUA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Clima/Clima.iml" filepath="$PROJECT_DIR$/Clima/Clima.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EstudoJPA/EstudoJPA.iml" filepath="$PROJECT_DIR$/EstudoJPA/EstudoJPA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExemploPreparedStatement/ExemploPreparedStatement.iml" filepath="$PROJECT_DIR$/ExemploPreparedStatement/ExemploPreparedStatement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/NetBeansProjects.iml" filepath="$PROJECT_DIR$/.idea/NetBeansProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProjetoSwing/ProjetoSwing.iml" filepath="$PROJECT_DIR$/ProjetoSwing/ProjetoSwing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Teste/Teste.iml" filepath="$PROJECT_DIR$/Teste/Teste.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TesteCondicao/TesteCondicao.iml" filepath="$PROJECT_DIR$/TesteCondicao/TesteCondicao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TesteProjetoVisual/TesteProjetoVisual.iml" filepath="$PROJECT_DIR$/TesteProjetoVisual/TesteProjetoVisual.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestedeProgramacao/TestedeProgramacao.iml" filepath="$PROJECT_DIR$/TestedeProgramacao/TestedeProgramacao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestedeRepeticao/TestedeRepeticao.iml" filepath="$PROJECT_DIR$/TestedeRepeticao/TestedeRepeticao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zoologico/Zoologico.iml" filepath="$PROJECT_DIR$/Zoologico/Zoologico.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zoologico1/Zoologico1.iml" filepath="$PROJECT_DIR$/Zoologico1/Zoologico1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/buscaCep/buscaCep.iml" filepath="$PROJECT_DIR$/buscaCep/buscaCep.iml" />
+      <module fileurl="file://$PROJECT_DIR$/calculos/calculos.iml" filepath="$PROJECT_DIR$/calculos/calculos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ead-bd/ead-bd.iml" filepath="$PROJECT_DIR$/ead-bd/ead-bd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio/exercicio.iml" filepath="$PROJECT_DIR$/exercicio/exercicio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/numerosprimos/numerosprimos.iml" filepath="$PROJECT_DIR$/numerosprimos/numerosprimos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pagamentoMei/pagamentoMei.iml" filepath="$PROJECT_DIR$/pagamentoMei/pagamentoMei.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pessoa/pessoa.iml" filepath="$PROJECT_DIR$/pessoa/pessoa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testeConecxao/testeConecxao.iml" filepath="$PROJECT_DIR$/testeConecxao/testeConecxao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testecep/testecep.iml" filepath="$PROJECT_DIR$/testecep/testecep.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testedeArray/testedeArray.iml" filepath="$PROJECT_DIR$/testedeArray/testedeArray.iml" />
+    </modules>
+  </component>
+</project>
